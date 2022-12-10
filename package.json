@@ -11,10 +11,7 @@
     "lib",
     "docs"
   ],
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
-  },
+  "private": "true",
   "scripts": {
     "start": "yarn dev",
     "dev": "yarn workspace docs dev",
