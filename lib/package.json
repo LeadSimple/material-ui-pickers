@@ -2,8 +2,8 @@
   "name": "@leadsimple/material-ui-pickers",
   "version": "3.3.12",
   "description": "React components, that implements material design pickers for material-ui v4",
-  "main": "./src/index.ts",
-  "module": "./src/index.ts",
+  "main": "./lib/build/index.js",
+  "module": "./lib/build/index.js",
   "keywords": [
     "material-ui",
     "pickers",
